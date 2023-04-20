@@ -33,7 +33,7 @@ export const initialState: HomeInitialState = {
   apiKey: '',
   loading: false,
   chatModeKeys: [],
-  lightMode: 'dark',
+  lightMode: 'light',
   messageIsStreaming: false,
   modelError: null,
   models: [],

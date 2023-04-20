@@ -20,7 +20,7 @@ export enum ChatModeID {
 export enum ChatModeName {
   DIRECT = 'Chat',
   AGENT = 'Agent',
-  GOOGLE_SEARCH = 'Google Search',
+  GOOGLE_SEARCH = 'Data',
 }
 
 export const ChatModes: Record<ChatModeID, ChatMode> = {
